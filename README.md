@@ -1,10 +1,8 @@
-![Header Image](https://img.freepik.com/photos-premium/deverrouillez-mystere-du-cerveau-humain-science-ia-generative-illumination-spirituelle_753390-1114.jpg)
+<div style="background-image: url('https://img.freepik.com/photos-premium/deverrouillez-mystere-du-cerveau-humain-science-ia-generative-illumination-spirituelle_753390-1114.jpg'); background-size: cover; background-position: center; height: 200px; display: flex; justify-content: center; align-items: center; color: white; font-size: 28px; font-weight: bold; text-shadow: 2px 2px 5px black;">
+    💼 Joseph Dmytriyev  
+</div>
 
-
-# 💼 Joseph Dmytriyev  
-**Développeur logiciel spécialisé en Python, R, HTML et CSS**  
-
-👨‍💻 **À propos de moi**  
+# À propos de moi  
 Passionné par le développement logiciel, j'excelle dans la création de solutions performantes et innovantes à l'aide de Python, R, HTML, et CSS.
 Mon expertise couvre des projets tels que l’analyse de données et le développement de sites web modernes et responsives.  
 
@@ -13,6 +11,7 @@ Mon expertise couvre des projets tels que l’analyse de données et le dévelop
 
 📍 **Localisation** : Marseille, France  
 📫 **Contactez-moi** : joseph.dmytriyev@laplateforme.io
+
 
 ---
 
