@@ -32,10 +32,10 @@ Mon expertise couvre des projets tels que l’analyse de données et le dévelop
 ---
 
 ## 📊 **Statistiques GitHub**  
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=JosephDmytriyev&show_icons=true&theme=radical)  
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=joseph-dmytriyev&show_icons=true&theme=radical)  
 
 ### **Langages les plus utilisés**  
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephDmytriyev&layout=compact&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-dmytriyev&layout=compact&theme=radical)
 
 ---
 
