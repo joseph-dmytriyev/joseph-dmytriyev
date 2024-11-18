@@ -1,3 +1,5 @@
+![Header Image](https://raw.githubusercontent.com/Joseph-Dmytriyev/Joseph-Dmytriyev/main/header.png)
+
 # 💼 Joseph Dmytriyev  
 **Développeur logiciel spécialisé en Python, R, HTML et CSS**  
 
