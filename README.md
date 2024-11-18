@@ -19,10 +19,10 @@ Mon expertise couvre des projets tels que l’analyse de données et le dévelop
 - **Technologies utilisées** : HTLM, Css
 - **Lien** : https://github.com/joseph-dmytriyev/site-web.git
 
-### **2. Site Web bloomPétals**  
-- **Description** : Reproduction d'un site web
+### **2. CV**  
+- **Description** : Creation d'un cv sur html
 - **Technologies utilisées** : HTML, Css
-- **Lien** : [Lien GitHub ou démo]
+- **Lien** : https://github.com/joseph-dmytriyev/job1
 
 ### **3. Git  begins**  
 - **Description** : Utilisation commande git
