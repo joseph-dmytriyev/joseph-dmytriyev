@@ -40,7 +40,7 @@ Mon expertise couvre des projets tels que l’analyse de données et le dévelop
 ---
 
 ## 🌐 **Liens Professionnels**  
-- 💼 **LinkedIn** : (https://www.linkedin.com/in/joseph-dmytriyev-347b35248/)
+- 💼 **LinkedIn** : https://www.linkedin.com/in/joseph-dmytriyev-347b35248/
 
 
 
