@@ -14,14 +14,14 @@ Mon expertise couvre des projets tels que l’analyse de données et le dévelop
 ---
 
 ## 📌 **Projets Majeurs**  
-### **1. [Nom du Projet 1]**  
-- **Description** : [Brève description, ex. Une plateforme d’analyse de données pour des rapports automatisés.]  
-- **Technologies utilisées** : Python, Pandas, Matplotlib  
-- **Lien** : [Lien GitHub ou démo]
+### **1. Fansite**  
+- **Description** : Création d'un site web  
+- **Technologies utilisées** : HTLM, Css
+- **Lien** : https://github.com/joseph-dmytriyev/site-web.git
 
-### **2. [Nom du Projet 2]**  
-- **Description** : [Exemple, un tableau de bord interactif pour visualiser les données scientifiques.]  
-- **Technologies utilisées** : R, Shiny, ggplot2  
+### **2. Site Web**  
+- **Description** : Reproduction d'un site web
+- **Technologies utilisées** : HTML, Css
 - **Lien** : [Lien GitHub ou démo]
 
 ### **3. [Nom du Projet 3]**  
