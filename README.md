@@ -1,4 +1,5 @@
-![Header Image](https://raw.githubusercontent.com/Joseph-Dmytriyev/Joseph-Dmytriyev/main/header.png)
+![Header Image](https://img.freepik.com/photos-premium/deverrouillez-mystere-du-cerveau-humain-science-ia-generative-illumination-spirituelle_753390-1114.jpg)
+
 
 # 💼 Joseph Dmytriyev  
 **Développeur logiciel spécialisé en Python, R, HTML et CSS**  
