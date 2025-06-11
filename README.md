@@ -1,13 +1,12 @@
 <img src="https://img.freepik.com/photos-premium/deverrouillez-mystere-du-cerveau-humain-science-ia-generative-illumination-spirituelle_753390-1114.jpg" alt="Header Image" style="width: 75%; height: auto;">
 
 # 💼 Joseph Dmytriyev  
-**Développeur logiciel spécialisé en Python, R, HTML et CSS**  
+**Développeur logiciel spécialisé en Python, C, C++**  
 
 ---
 
 ## 👨‍💻 À propos de moi  
-Passionné par le développement logiciel, j'excelle dans la création de solutions performantes et innovantes à l'aide de Python, R, HTML, et CSS.  
-Mon expertise couvre des projets tels que l’analyse de données et le développement de sites web modernes et responsives.  
+Passionné par le développement logiciel, j'excelle dans la création de solutions performantes et innovantes à l'aide de Python, C, C++, et Java. 
 
 💡 **Points forts** :  
 - Gestion de projets en groupe, avec un fort esprit collaboratif pour mener à bien des initiatives complexes.  
@@ -20,20 +19,20 @@ Mon expertise couvre des projets tels que l’analyse de données et le dévelop
 ---
 
 ## 📌 **Projets Majeurs**  
-### **1. Fansite**  
-- **Description** : Création d'un site web  
-- **Technologies utilisées** : HTLM, Css
-- **Lien** : https://github.com/joseph-dmytriyev/site-web.git
+### **1. budget_buddy**  
+- **Description** : Création application bancaire avec interface graphique et base de donnée
+- **Technologies utilisées** : Python, sql
+- **Lien** : https://github.com/joseph-dmytriyev/budget_buddy
 
-### **2. CV**  
-- **Description** : Creation d'un cv sur html
-- **Technologies utilisées** : HTML, Css
-- **Lien** : https://github.com/joseph-dmytriyev/job1
+### **2. Anthill_algorithm**  
+- **Description** : fourmiière algorithmique
+- **Technologies utilisées** : C++
+- **Lien** : https://github.com/joseph-dmytriyev/Anthill_algorithm
 
-### **3. Git  begins**  
-- **Description** : Utilisation commande git
-- **Technologies utilisées** : git  
-- **Lien** : https://github.com/joseph-dmytriyev/git.begins
+### **3. MyDiscord**  
+- **Description** : Messagerie de type discord avec interface graphique, serveur et base de donnée
+- **Technologies utilisées** : C,Postgre,linux
+- **Lien** : https://github.com/joseph-dmytriyev/MyDiscord
 
 ---
 
